@@ -13,7 +13,6 @@ class App extends React.Component{
         return (
             <div>
                 {/*<h1>你好</h1>*/}
-                {/*<h1>你好</h1>*/}
                 <Welcome name="1234"/>
             </div>
             // <div className="App">
